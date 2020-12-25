@@ -1,0 +1,71 @@
+.todo__list li i img{
+    opacity: 0.60;
+  }
+  
+  
+  .green {
+    display: inline-block;
+    background-color: #42B883;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    opacity: 0.6;
+  }
+  
+  .blue {
+    display: inline-block;
+    background-color: #64C4ED;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    opacity: 0.6;
+  }
+  
+  .pink {
+    display: inline-block;
+    background-color: #FFBBCC;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    opacity: 0.6;
+  }
+  .grey {
+    display: inline-block;
+    background-color:#C9D1D3;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    opacity: 0.6;
+  }
+  .lime {
+    display: inline-block;
+    background-color:#B6E6BD;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    opacity: 0.6;
+  }
+  .purple {
+    display: inline-block;
+    background-color:#C355F5;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    opacity: 0.6;
+  }
+  .black {
+    display: inline-block;
+    background-color: #110133;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    opacity: 0.6;
+  }
+  .red {
+    display: inline-block;
+    background-color:#FF6464;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    opacity: 0.6;
+  }

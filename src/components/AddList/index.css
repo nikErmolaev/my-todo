@@ -1,0 +1,47 @@
+/* .add-list{
+    
+} */
+.add-list__popup{
+    position: relative;
+    width: 240px;
+    height: 140px;
+    background: #FFFFFF;
+    box-shadow: 10px 15px 10px rgba(0, 0, 0, 0.13);
+    border-radius: 10px;
+    padding: 18px;
+    box-sizing: border-box;
+}
+.add-list__popup button{
+    width: 100%;
+    margin-top: 5px;
+}
+.add-list__popup-colors{
+    margin-top: 5px;
+}
+.add-list__popup ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.add-list__popup ul i{
+    width: 20px;
+    height: 20px;
+}
+.active i i{
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 100%;
+    width: 25px;
+    height: 25px;
+
+}
+.add-list__close{
+    position: absolute;
+    right: 0;
+    top: 0 ;
+    cursor: pointer;
+    opacity: 0.5;
+}
+.add-list__close:hover{
+    
+    opacity: 1;
+}
